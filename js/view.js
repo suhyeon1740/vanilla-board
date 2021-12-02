@@ -1,0 +1,4 @@
+getPost()
+function getPost() {
+
+}
